@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am 20 years old and currently pursuing a degree in **Software Engineering** at **UTFPR — Cornélio Procópio**.
-- ⏳ I am in my **second year**, with an expected graduation date in **December 2027**.
+- ⏳ I am in my **third year**, with an expected graduation date in **December 2027**.
 - 🇺🇸 I have **Advanced English** skills.
 - 🚀 I am constantly seeking to grow both personally and professionally through continuous learning, academic projects, and exploring new technologies.
 
